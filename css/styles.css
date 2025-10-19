@@ -67,6 +67,7 @@ body {
   line-height: 21px;
   margin: 0;
   background-color: var(--color-bg-secondary);
+  overflow-x: auto;
 }
 
 .button {
