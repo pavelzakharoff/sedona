@@ -61,6 +61,7 @@ html {
 }
 
 body {
+  min-width: 1200px; /*добалено для мобильного устройства что бы не ломалась верстка*/
   font-family: "PT Sans", sans-serif;
   font-size: 18px;
   font-weight: 400;
